@@ -1,0 +1,125 @@
+.main-footer {
+    position: fixed;
+    bottom:0px;
+    width:100%;
+    padding: 0px;
+}
+
+button {
+    margin-left: 5px;
+}
+
+.table-actions {
+    min-width: 80px;
+    width: 100px;
+}
+
+.content-wrapper, .right-side{
+    background-color: white !important;
+    padding: 3px
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+    padding: 3px !important
+}
+
+.numberTable>tbody>tr>td{
+    padding-left: 5px !important;
+    margin-bottom: 10px
+}
+
+.table{
+    margin-bottom: 45px;
+    
+}
+
+.sidebar-menu{
+    font-size: 16px
+}
+
+.content{
+    margin-bottom: 20px;
+}
+
+.row_duplicate{
+    margin-bottom: 5px;
+    margin-left: 85px;
+    border-left: #d4cccc dashed 1px;
+}
+
+.treeTable{
+    margin-top: 5px;
+    margin: 7px;
+}
+
+.treeTable>tbody>tr>td{
+    padding: 3px !important;
+}
+
+.col-opt{
+    max-width: 110px
+}
+
+.addon-file-upload{
+    min-width: 185px
+}
+
+.select2-container{
+    
+    width: 150px !important;
+    height: 34px !important;
+    border-radius: 0px;    
+}
+
+.input2-container{
+    
+    width: 60px !important;
+    height: 34px !important;
+    border-radius: 0px;    
+}
+
+.input3-container{
+    
+    width: 150px !important;
+    height: 34px !important;
+    border-radius: 0px;    
+    
+}
+
+.input4-container{
+    
+    width: 100px !important;
+    height: 34px !important;
+    border-radius: 0px;    
+}
+
+.select2-container .select2-selection--single{
+    width: 100% !important;
+    height: 34px !important;
+    border-radius: 0px;    
+}
+
+.select2-container--default .select2-selection--single {
+    border-radius: 0px !important;
+    border-color: #d2d6de !important;
+}
+
+.table-ddd{
+    width: 75px
+}
+
+.table_fluid{
+    width: 100%
+}
+
+.btn-center{
+    vertical-align: middle !important;
+}
+
+.elem-disabled{
+    opacity: 0.2;
+}
+
+.div-padding-0{
+    padding-left: 0px !important
+}
